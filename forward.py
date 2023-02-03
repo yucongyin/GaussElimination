@@ -42,3 +42,4 @@ print("Here are the Xs processed by the forward_substitution algorithm: \n")
 
 for i in range(len(x)):
     print(f"x[{i}] = {x[i]} ")
+
